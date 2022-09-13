@@ -1,4 +1,4 @@
-## java-num-to-tallies - A number to tally converter.
+## java-num-to-tallies - A number to tally mark converter.
 A java file that converts a given number to tallies.
 
 ### Important
