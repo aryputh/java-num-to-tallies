@@ -14,6 +14,9 @@ This project doesn't catach any errors. The project doesn't take negative number
 
 ### Examples
 12 = 5511 (5 + 5 + 1 + 1 = 12)
+
 0 = NONE
+
 2 = 11 (1 + 1 = 2)
+
 99 = 55555555555555555551111 (5 + 5 + 5 + 5 + 5 + 5 + 5 + 5 + 5 + 5 + 5 + 5 + 5 + 5 + 5 + 5 + 5 + 5 + 5 + 1 + 1 + 1 + 1 = 99)
