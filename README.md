@@ -8,7 +8,7 @@ When converting, the final result will end up showing 5's and 1's. This is due t
 1 = A group of one.
 
 ### Remixing
-Since this is a basic, bare bones project, you may remix/add anything you want to it! No credit is required but is appreciated.
+Since this is a basic, bare bones project, you may remix/add anything you want to it! <i>No credit is required but is appreciated.</i>
 
 This project doesn't catach any errors. The project doesn't take negative numbers, input other than integers, but will still accept it from the user.
 
