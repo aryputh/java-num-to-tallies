@@ -8,7 +8,7 @@ When converting, the final result will end up showing 5's and 1's. This is due t
 1 = A group of one mark.
 
 ### Remixing and License
-Since this is a basic, bare bones project, you may remix/add anything you want to it! <i>Credit is required and the project can be used for commercial/personal use.</i>
+Since this is a basic, bare bones project, you may remix/add anything you want to it! <i>License: <a href="[url](https://creativecommons.org/licenses/by-sa/4.0/)">CC BY-SA 4.0</a>.</i>
 
 This project doesn't catch any errors. The project doesn't take negative numbers, input other than integers, but will still accept it from the user if given.
 
